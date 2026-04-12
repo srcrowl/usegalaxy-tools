@@ -78,6 +78,7 @@ tools:
   - 9bd945a03d7b
   - be1fdce914c6
   - d1e49c3c0aa2
+  - d9948b3dd270
   - e6a8d5fdca85
   - ed4996a16f7f
   tool_panel_section_id: single_cell
