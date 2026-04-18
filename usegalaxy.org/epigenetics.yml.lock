@@ -22,12 +22,14 @@ tools:
   revisions:
   - 2d4a34c00c67
   - 6c26354dabe0
+  - f256f69cecfc
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
 - name: hicup_digester
   owner: bgruening
   revisions:
   - 8b1d0e4e8f22
+  - a1aa623d2122
   - e79c38f1752c
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
@@ -41,6 +43,7 @@ tools:
 - name: hicup_mapper
   owner: bgruening
   revisions:
+  - 4c5e6a5d1f26
   - 70427be35bf2
   - be104dee2833
   tool_panel_section_id: epigenetics

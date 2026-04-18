@@ -477,6 +477,7 @@ tools:
   - 2d53571c2f00
   - 612ca26c197d
   - 61634a87efc7
+  - 89f11e2b0673
   - a4f18bbb4eca
   - caeb57858702
   - f93f0cdbaf18
@@ -537,6 +538,7 @@ tools:
 - name: scipy_sparse
   owner: bgruening
   revisions:
+  - 233aab4c1be8
   - 42b513bed40b
   - 4efac966af2a
   - 6d1a9fae57eb
