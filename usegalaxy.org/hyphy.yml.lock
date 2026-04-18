@@ -34,6 +34,7 @@ tools:
   owner: iuc
   revisions:
   - 2318841ec191
+  - 3629cc0115ac
   - 5b4fd931a989
   - 68cd2d8e3840
   - 91cf1290ba6f
@@ -267,6 +268,7 @@ tools:
   revisions:
   - 0407236012e5
   - 296f6bc03fa6
+  - 3791d6afec1e
   - 6d29207a32c5
   - 6fede7bd6c8f
   - 70aa4bada58d
@@ -300,6 +302,7 @@ tools:
   - 49885a825dc1
   - 4d13ff4556da
   - 4e9485eb5e9d
+  - 50551ca179d3
   - 592fb9353702
   - 5eb9d7217640
   - 627443c1e5ba
