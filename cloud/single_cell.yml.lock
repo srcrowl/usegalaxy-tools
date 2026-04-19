@@ -50,6 +50,7 @@ tools:
   owner: iuc
   revisions:
   - 13cf83ced60c
+  - 3701d29f7105
   - 55e35e9203cf
   - 923dcc644832
   - 93dd15e13e6a
@@ -62,6 +63,7 @@ tools:
   owner: iuc
   revisions:
   - 0cb889db0910
+  - 4009b2de324d
   - 707023fa62fe
   - 83609ef746e9
   - 8b9bf8b5157a
@@ -78,6 +80,7 @@ tools:
   - 9bd945a03d7b
   - be1fdce914c6
   - d1e49c3c0aa2
+  - d9948b3dd270
   - e6a8d5fdca85
   - ed4996a16f7f
   tool_panel_section_id: single_cell
