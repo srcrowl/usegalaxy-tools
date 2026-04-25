@@ -42,6 +42,7 @@ tools:
   - 209b663a4f62
   - 49f73a3c12f3
   - 4bd75b45a7a1
+  - b65937214830
   - ba45bc057d70
   - bf0df21a1ea3
   - e7dd78077b72
@@ -221,6 +222,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - ab2c393080f9
@@ -430,6 +432,7 @@ tools:
   - 1c25f305db70
   - 734c66aa945a
   - 8e447b95e6a8
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -479,6 +482,7 @@ tools:
   - 61634a87efc7
   - a4f18bbb4eca
   - caeb57858702
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

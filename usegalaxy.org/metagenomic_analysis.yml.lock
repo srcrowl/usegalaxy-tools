@@ -20,6 +20,7 @@ tools:
   owner: bgruening
   revisions:
   - 0cdcf7e99b62
+  - 1196fc76fdc2
   - 1e3323a44643
   - 20d92dc4c6cb
   - 54f751e413f4
@@ -208,6 +209,7 @@ tools:
   - 4e469b758915
   - 52a911972c02
   - 7b8cb2b02978
+  - a204f3983d22
   - a58e4a43f49c
   - cae017b76acb
   - d60df8727f59
@@ -348,6 +350,7 @@ tools:
   - 4cc834cce4fb
   - 7d28da5e9e27
   - 9058d8943303
+  - 9180d536e20d
   - a7817705348e
   - d943081510da
   - f74c56549143
@@ -471,6 +474,7 @@ tools:
   revisions:
   - 2fd4d4c9c5c2
   - 3548a93b39c1
+  - 3725f7f2be35
   - 3b22de20bd4b
   - da787fc8b740
   tool_panel_section_id: metagenomic_analysis
@@ -601,6 +605,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - a040f2dc705c
   - eb50e7eca3dc
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
@@ -696,6 +701,7 @@ tools:
   - 847f433f202b
   - b6a38f6222af
   - c0101c72b8af
+  - eed716573aba
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
@@ -944,6 +950,7 @@ tools:
   owner: ufz
   revisions:
   - 26f5822743aa
+  - b405bd1eff93
   - edb671f0661e
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
