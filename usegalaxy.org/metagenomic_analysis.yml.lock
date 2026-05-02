@@ -20,6 +20,7 @@ tools:
   owner: bgruening
   revisions:
   - 0cdcf7e99b62
+  - 1196fc76fdc2
   - 1e3323a44643
   - 20d92dc4c6cb
   - 54f751e413f4
@@ -221,6 +222,7 @@ tools:
   revisions:
   - 1728e5ee871a
   - 224abe7c80ed
+  - 2875d977c533
   - 32c9ea835770
   - 498d57610fcd
   - 555ccac8a4c5
@@ -684,6 +686,7 @@ tools:
   - 0b9d4ec77c4f
   - 24488fae5b04
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
   tool_panel_section_id: metagenomic_analysis
@@ -783,6 +786,7 @@ tools:
   - 0ea86ba426e1
   - 19e4e2d98ebb
   - 98731fd340c5
+  - c7dddac32efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_taxon_set
@@ -791,6 +795,7 @@ tools:
   - 03c18e927a7e
   - 407e50329077
   - 7b705d847810
+  - bd631c7b95e3
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_tetra
@@ -798,6 +803,7 @@ tools:
   revisions:
   - 0061483faf7d
   - 46bc08145439
+  - 81af66339b05
   - d0d9e52a46b8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -828,6 +834,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 27ac516ba719
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8

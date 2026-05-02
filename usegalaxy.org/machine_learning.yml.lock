@@ -63,6 +63,7 @@ tools:
   revisions:
   - 0314dad38aaa
   - 1aed7d47c5ec
+  - 268f429857c9
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
@@ -132,6 +133,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -299,6 +301,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -334,6 +337,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -356,6 +360,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -452,6 +457,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_fitted_model_eval
@@ -487,6 +493,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 222c02df5d55
   - 4a229a7ad638
   - 6fabdcde0214
