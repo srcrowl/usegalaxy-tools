@@ -200,6 +200,7 @@ tools:
   revisions:
   - 273b8a00c8a2
   - 646c58820267
+  - c920e1400f98
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_makesequencetable
