@@ -79,12 +79,14 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -116,6 +118,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_lineage_wf
@@ -123,6 +126,7 @@ tools:
   revisions:
   - 8345d273ba82
   - c3735bcc9cb8
+  - dcbbec865b86
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_genome
@@ -213,6 +217,7 @@ tools:
   owner: iuc
   revisions:
   - 4efeb75704c8
+  - 6bd7c48ff6ed
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -228,6 +233,7 @@ tools:
   revisions:
   - 705d26fbea02
   - 9f306361a58e
+  - ce4bfce70e64
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
