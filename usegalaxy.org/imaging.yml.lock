@@ -51,6 +51,7 @@ tools:
   revisions:
   - 37662cbf44b8
   - 66fe62b96281
+  - aece93442819
   - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging
@@ -117,6 +118,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - d78372040976
   - e8c9e104e109
   tool_panel_section_id: imaging
@@ -186,6 +188,7 @@ tools:
 - name: superdsm
   owner: imgteam
   revisions:
+  - f66dce543932
   - fc3724b4f841
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -613,6 +616,7 @@ tools:
   owner: imgteam
   revisions:
   - 48fa3ac55df2
+  - 8229f7f69d08
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: cp_cellprofiler

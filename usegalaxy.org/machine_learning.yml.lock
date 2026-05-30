@@ -9,6 +9,7 @@ tools:
   - 25bb80df7c0c
   - 3719606b94af
   - 375c36923da1
+  - 73af7d202e2a
   - 871957823d0c
   - 975512caae22
   - a48e750cfd25
@@ -22,6 +23,7 @@ tools:
   owner: goeckslab
   revisions:
   - 2c6624cae3c5
+  - 328ff3a13078
   - 8729f69e9207
   - 94cd9ac4a9b1
   - bbf30253c99f
@@ -39,6 +41,7 @@ tools:
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
+  - 1dfc3ad13f43
   - 209b663a4f62
   - 49f73a3c12f3
   - 4bd75b45a7a1
@@ -66,6 +69,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7d16a7bd5f41
   - 7d78a6afc958
   - afd0864d18b6
   - c5c324ac29fc
@@ -91,12 +95,14 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -123,6 +129,7 @@ tools:
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -132,6 +139,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -156,6 +164,7 @@ tools:
   owner: bgruening
   revisions:
   - 1b68acd5ac08
+  - 418cafc53f8e
   - 443471b0a27a
   - 4d1637cac794
   - 8b822484debc
@@ -172,6 +181,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 5a125d1ac9b9
   - 5ae00d2908f2
@@ -193,6 +203,7 @@ tools:
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 887e0aaa482e
   - 9dc28a4b6ca8
@@ -206,6 +217,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -221,6 +233,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - ab2c393080f9
@@ -254,6 +267,7 @@ tools:
   - 0c74d3164ac8
   - 118e230e85ce
   - 3f25f37ee3db
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 7388ffedf12c
   - 7442b94d6a1e
@@ -403,6 +417,7 @@ tools:
   - 87cb9cb44d1f
   - 893285b150f8
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_id: machine_learning
@@ -413,6 +428,7 @@ tools:
   - 14f0ccc85505
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 63417d0acc72
   - 913bf1c4c7bb
   - 91c4e3331208
@@ -500,6 +516,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554

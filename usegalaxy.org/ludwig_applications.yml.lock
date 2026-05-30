@@ -6,6 +6,7 @@ tools:
 - name: ludwig_train
   owner: goeckslab
   revisions:
+  - 26fed0deef67
   - 3f587f0e5a6d
   - 4d12452c5361
   - 650639a4a75f
@@ -33,6 +34,7 @@ tools:
   - a930e68bdffe
   - b6953aa083ed
   - b81fe4d92236
+  - d93e52cf97c7
   - ef7124ab6b02
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
