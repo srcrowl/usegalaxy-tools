@@ -68,6 +68,7 @@ tools:
   owner: iuc
   revisions:
   - 146ae5d70b47
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 51d945eab1e1
@@ -213,6 +214,7 @@ tools:
   owner: iuc
   revisions:
   - 0bff0ee0683a
+  - 14ac9a11465e
   - 49776718ae90
   - 7e014059a88d
   - a4b734cd253b
@@ -257,6 +259,7 @@ tools:
   - 44b935f2271b
   - 72979cac22b2
   - e93b008c637a
+  - fe9bf1aa669e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_filter_cells
@@ -722,6 +725,7 @@ tools:
 - name: seurat_preprocessing
   owner: iuc
   revisions:
+  - 5d5fe5659252
   - 6bccf5f85f92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
