@@ -112,6 +112,7 @@ tools:
   - 458e8f43a775
   - 73ab2ac53d06
   - 80d4e2cac903
+  - 80fe16f87825
   - 974bb00b2f43
   - 9fb627495ec2
   - a39040ae0a38
@@ -136,6 +137,7 @@ tools:
   - c0b037b12765
   - c5ac926c838f
   - cfaf5a405371
+  - d99a178d1ab5
   - e1c3c2f2a834
   - f843b9afd94e
   tool_panel_section_id: single_cell
@@ -188,6 +190,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
+  - 0ee9395e1eb2
   - 0f1aaff9b22d
   - 4b0adaa31c95
   - 4c9fa3c63d9e
@@ -716,6 +719,7 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 6154937135c7
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
