@@ -256,6 +256,7 @@ tools:
   - 2bfd55b87af3
   - 44b935f2271b
   - 72979cac22b2
+  - 8efd06e9899d
   - e93b008c637a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -705,6 +706,7 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - f04c81e68e86
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_integrate
