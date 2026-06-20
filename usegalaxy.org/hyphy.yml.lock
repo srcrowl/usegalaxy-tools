@@ -79,6 +79,7 @@ tools:
   - 12bc58a60606
   - 2228dcc23dd9
   - 35df756079a3
+  - 38ac249e5d69
   - 5da8672e89a3
   - 6647e04e92a7
   - 686a8b41d09c
@@ -101,6 +102,7 @@ tools:
 - name: hyphy_cfel
   owner: iuc
   revisions:
+  - 34d2e58b8a1f
   - 3d4ea0544af1
   - 5b63871000c9
   - 643be54bef90
@@ -170,6 +172,7 @@ tools:
   - ae95a6b22562
   - af7490b6329b
   - b110a31a9c61
+  - b156ae1424fe
   - b6e3961a25ff
   - bab5041d177e
   - c32f3d3e8a92
@@ -184,6 +187,7 @@ tools:
 - name: hyphy_fubar
   owner: iuc
   revisions:
+  - 04de395f2a4e
   - 1b893cdead55
   - 271afda54a6d
   - 37f6c6344193
@@ -245,6 +249,7 @@ tools:
   - 5d8389d684bf
   - 5fd8dc04d6af
   - 6433eab14244
+  - 67fe4f52c1e5
   - 6e7f144046c0
   - 7852b50fabb7
   - 82a3221ca3aa
@@ -300,6 +305,7 @@ tools:
   - 49885a825dc1
   - 4d13ff4556da
   - 4e9485eb5e9d
+  - 50551ca179d3
   - 592fb9353702
   - 5eb9d7217640
   - 627443c1e5ba
@@ -340,6 +346,7 @@ tools:
   - b0b16acfcbe3
   - b82429e9c6a9
   - d6f4ff2aed07
+  - e46726cd0c9e
   - ec499ddce7a9
   tool_panel_section_id: hyphy
   tool_panel_section_label: HyPhy
@@ -350,6 +357,7 @@ tools:
   - 011f70f720ac
   - 051642420aec
   - 056a5b14721d
+  - 07774580b606
   - 1527f00ddf7f
   - 188452adcaa0
   - 23b9bd244670
@@ -379,6 +387,7 @@ tools:
   - 50554f806e16
   - 7c86ceaf523c
   - a60caeb3c453
+  - aaf823b11580
   - dc8875a13914
   - ea698cd7e086
   - f5bbd4b34541

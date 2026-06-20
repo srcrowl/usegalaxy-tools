@@ -33,6 +33,7 @@ tools:
   - 9b892d7f82cc
   - b8476e82ac20
   - c1d53e95327f
+  - e727e82945af
   - f87ac61981f0
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
@@ -61,6 +62,7 @@ tools:
   - 112d80c9ccca
   - 476189b83931
   - af03f3398f03
+  - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
@@ -72,6 +74,7 @@ tools:
   - 84849140a3bc
   - bdaadfd0c843
   - c176164dc8a5
+  - d9a642ad8ece
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: tasmanian_mismatch
