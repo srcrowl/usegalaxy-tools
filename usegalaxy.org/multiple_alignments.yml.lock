@@ -86,6 +86,7 @@ tools:
   - 315c678562d2
   - 5561a1193611
   - 60698466facd
+  - b03f8fcbd240
   - c9685bc0407c
   - deacc6b40cc0
   tool_panel_section_id: multiple_alignments
@@ -94,6 +95,7 @@ tools:
   owner: iuc
   revisions:
   - 4c89814871e8
+  - 59f156f7f3c7
   - 959c1f8dae95
   - b4124df98b26
   - b8e2c2f95d26

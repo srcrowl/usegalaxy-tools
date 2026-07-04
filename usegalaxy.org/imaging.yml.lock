@@ -51,6 +51,7 @@ tools:
   revisions:
   - 37662cbf44b8
   - 66fe62b96281
+  - aece93442819
   - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging
@@ -390,6 +391,7 @@ tools:
 - name: image_info
   owner: imgteam
   revisions:
+  - e28851b24032
   - f8b4eada923c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -450,6 +452,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw
   owner: imgteam
   revisions:
+  - 231ca4c088d9
   - f068e9171af2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -763,6 +766,7 @@ tools:
   owner: imgteam
   revisions:
   - 390943df8a35
+  - 7191fd16988f
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: crop_image

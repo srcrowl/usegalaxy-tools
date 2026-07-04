@@ -117,6 +117,7 @@ tools:
   revisions:
   - 079ea2eb9ae4
   - 3ea647006f17
+  - 4c52eab912ea
   - 6569d04885e5
   - 6761212b7f1d
   - 9ce3d6d4bd0e
@@ -136,6 +137,7 @@ tools:
   - 29515b569f8b
   - 3b8114109e84
   - 5e8d0e777033
+  - 657baa39114a
   - 751948c21000
   - 7c41611bf5b7
   - a1a03eb66960
@@ -267,6 +269,7 @@ tools:
   revisions:
   - 0407236012e5
   - 296f6bc03fa6
+  - 3791d6afec1e
   - 6d29207a32c5
   - 6fede7bd6c8f
   - 70aa4bada58d
@@ -300,6 +303,7 @@ tools:
   - 49885a825dc1
   - 4d13ff4556da
   - 4e9485eb5e9d
+  - 50551ca179d3
   - 592fb9353702
   - 5eb9d7217640
   - 627443c1e5ba
