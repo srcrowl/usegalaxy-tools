@@ -259,6 +259,7 @@ tools:
   revisions:
   - 38db3fef7aad
   - 49ce1315722c
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -268,6 +269,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
@@ -290,6 +292,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 56c0d4acef02
