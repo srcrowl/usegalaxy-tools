@@ -50,6 +50,7 @@ tools:
   revisions:
   - 0669558ebc6b
   - 082d47606949
+  - 0bdd3998a0d7
   - 12c2453e5040
   - 14e7ae9331cb
   - 194108d6da22
@@ -117,6 +118,7 @@ tools:
   revisions:
   - 079ea2eb9ae4
   - 3ea647006f17
+  - 4c52eab912ea
   - 6569d04885e5
   - 6761212b7f1d
   - 9ce3d6d4bd0e
@@ -136,6 +138,7 @@ tools:
   - 29515b569f8b
   - 3b8114109e84
   - 5e8d0e777033
+  - 657baa39114a
   - 751948c21000
   - 7c41611bf5b7
   - a1a03eb66960
@@ -170,6 +173,7 @@ tools:
   - ae95a6b22562
   - af7490b6329b
   - b110a31a9c61
+  - b156ae1424fe
   - b6e3961a25ff
   - bab5041d177e
   - c32f3d3e8a92
@@ -184,6 +188,7 @@ tools:
 - name: hyphy_fubar
   owner: iuc
   revisions:
+  - 04de395f2a4e
   - 1b893cdead55
   - 271afda54a6d
   - 37f6c6344193
@@ -245,6 +250,7 @@ tools:
   - 5d8389d684bf
   - 5fd8dc04d6af
   - 6433eab14244
+  - 67fe4f52c1e5
   - 6e7f144046c0
   - 7852b50fabb7
   - 82a3221ca3aa
@@ -379,6 +385,7 @@ tools:
   - 50554f806e16
   - 7c86ceaf523c
   - a60caeb3c453
+  - aaf823b11580
   - dc8875a13914
   - ea698cd7e086
   - f5bbd4b34541
