@@ -117,6 +117,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - d78372040976
   - e8c9e104e109
   tool_panel_section_id: imaging
@@ -125,6 +126,7 @@ tools:
   owner: imgteam
   revisions:
   - 7b93ce5ec3ee
+  - e7d22ed256f3
   - f3fad67af22c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -133,6 +135,7 @@ tools:
   revisions:
   - 2dc244356765
   - 91dfd38a97ae
+  - c297f2961ee5
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: bia_download
@@ -181,11 +184,13 @@ tools:
   owner: imgteam
   revisions:
   - 4512751bccca
+  - dd4aa58e5362
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: superdsm
   owner: imgteam
   revisions:
+  - f66dce543932
   - fc3724b4f841
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -204,6 +209,7 @@ tools:
 - name: colorize_labels
   owner: imgteam
   revisions:
+  - 465a08183136
   - 5907be5a8d7c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -390,12 +396,14 @@ tools:
 - name: image_info
   owner: imgteam
   revisions:
+  - e28851b24032
   - f8b4eada923c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_binary_to_edm
   owner: imgteam
   revisions:
+  - 4ae6e6b0258d
   - 91b8f4730a93
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -427,6 +435,7 @@ tools:
   owner: imgteam
   revisions:
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_noise
@@ -438,6 +447,7 @@ tools:
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -481,6 +491,7 @@ tools:
   owner: imgteam
   revisions:
   - 69e951528a0b
+  - aed895206786
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_smooth
@@ -517,12 +528,14 @@ tools:
   owner: imgteam
   revisions:
   - 1cf9771e0e53
+  - ac4aee7dc64c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
   owner: imgteam
   revisions:
   - 418b1fa32b83
+  - f4e396f032fc
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
