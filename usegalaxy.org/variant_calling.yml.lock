@@ -27,6 +27,7 @@ tools:
   - 5c7b70713fb5
   - 6322be79bd8e
   - 74aebe30fb52
+  - 908f2c5fedec
   - 9473cd297a76
   - c7275bd8b4d6
   - ca2b512e8d7c
@@ -43,6 +44,7 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
+  - 0abc5513f795
   - 2b3e65a4252f
   - 2e497a770bca
   - 5fab4f81391d
@@ -182,6 +184,7 @@ tools:
   revisions:
   - 36960e552ddc
   - 51d28b4d3a04
+  - 54def72f84b2
   - 71dfde92fd57
   - 7d9166ecd10f
   - 845a7025ba81
@@ -197,6 +200,7 @@ tools:
   - 2e303fcd3b0c
   - 399b40b2bcab
   - 3c6952a2b0e4
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -314,6 +318,7 @@ tools:
 - name: snp_dists
   owner: iuc
   revisions:
+  - 1be3e9c59601
   - f78492521996
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -330,6 +335,7 @@ tools:
   - 0da0b2dc624c
   - 45c2ec061cf9
   - 6535dd4a4064
+  - e1ab5699a834
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: arriba_draw_fusions
@@ -338,6 +344,7 @@ tools:
   - 24271361028f
   - 7acb00fc980a
   - a2c1c52a7e47
+  - a9b4d7761b46
   - cf01dd6c6b1f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

@@ -15,6 +15,7 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - b734db305578
@@ -193,6 +194,7 @@ tools:
   - 3f6e5c701945
   - 5f8efb080f49
   - 8c8299e553ec
+  - a3d1bf938fa8
   - dddd7ef63469
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -213,6 +215,7 @@ tools:
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
+  - fea9e5d3fb28
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: optitype
@@ -534,6 +537,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
