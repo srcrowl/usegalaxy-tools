@@ -89,6 +89,7 @@ tools:
   - 0a5dcc9a8ec2
   - 0dbff46d5a1b
   - 43f0efd586c4
+  - cd06642e9c20
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_mendelian
@@ -96,6 +97,7 @@ tools:
   revisions:
   - 8f5962c43868
   - bf235558f2cf
+  - e52c0cfa25c4
   - eed37e76acd1
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -135,6 +137,7 @@ tools:
   owner: iuc
   revisions:
   - 591cc8518033
+  - 7aea930ab6cc
   - b17394940c7a
   - fcf941c241cc
   tool_panel_section_id: vcf_bcf
@@ -150,6 +153,7 @@ tools:
 - name: bcftools_plugin_fill_tags
   owner: iuc
   revisions:
+  - 26657b72001e
   - b10d1510fa84
   - bf7d6acd9884
   - fea209b23f19
@@ -161,6 +165,7 @@ tools:
   - 02f349bdbf96
   - 39bca000353d
   - 3d21f507fc5d
+  - 60e73d60fe1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_merge
@@ -217,6 +222,7 @@ tools:
   - 06eaadeffb7d
   - 2c372041ed8c
   - 403553ae19f6
+  - b79aae13e613
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_dosage
@@ -239,6 +245,7 @@ tools:
   owner: iuc
   revisions:
   - 3897eaadfbff
+  - 4e4f9c001b11
   - 9268b0ad92af
   - bdfdf5f6e950
   tool_panel_section_id: vcf_bcf
