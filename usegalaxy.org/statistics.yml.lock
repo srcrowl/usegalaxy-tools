@@ -114,6 +114,7 @@ tools:
 - name: heatmap
   owner: ethevenot
   revisions:
+  - a17fd6d6ef90
   - b1667c118127
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
@@ -221,6 +222,7 @@ tools:
 - name: rdeval
   owner: richard-burhans
   revisions:
+  - 280f0db52654
   - 37d67c252fed
   - aef1eea2058c
   - f0409baac2cd
