@@ -46,6 +46,7 @@ tools:
   revisions:
   - 1b851f87fbe0
   - 30f6985f0ac7
+  - 37d067694d40
   - 38b6d12edc68
   - 5dbff3a5845a
   - 6f66ae7c5f7a
@@ -76,6 +77,7 @@ tools:
   - 76d290331481
   - 8eb8750070d4
   - 914cfcba0ec8
+  - 92198ab2345f
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -475,6 +477,7 @@ tools:
   - 3f9ff31c88bb
   - 51a3b375b7b8
   - 9d93999d9028
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder

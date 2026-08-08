@@ -17,6 +17,7 @@ tools:
   revisions:
   - 45828071edc3
   - 57aeaf6b237d
+  - 7157e98ec11a
   - 9d42a6133690
   - f1c35f3f310d
   tool_panel_section_id: hicexplorer
@@ -106,6 +107,7 @@ tools:
   owner: bgruening
   revisions:
   - 0f611e7d7858
+  - 453619f40b89
   - a4c13ddcc8ee
   - d9967770de96
   - ed2cca6b5de4
@@ -153,6 +155,7 @@ tools:
   - 0f5786ffa10d
   - 2786a931cad2
   - 2b4d6a8dab36
+  - 5faa9d3839d0
   - cd40ca76865a
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -217,6 +220,7 @@ tools:
   - 55b013e59018
   - 908fa330b93b
   - c261b6b05ee3
+  - eddb1f249f6c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicmergedomains
@@ -233,6 +237,7 @@ tools:
   revisions:
   - 1511a8ebe906
   - 1d9799f4b854
+  - 7f88b2b4662d
   - 910c6a1c3a27
   - ed900cd4a0a9
   tool_panel_section_id: hicexplorer
@@ -241,6 +246,7 @@ tools:
   owner: bgruening
   revisions:
   - 11fa44ee0603
+  - 7011782fdbaf
   - 977dc15add20
   - 9d93c8fbe0a6
   - f72063d9426b

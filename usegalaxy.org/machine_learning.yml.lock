@@ -386,6 +386,7 @@ tools:
   - 6db5c1dfb076
   - 70c5a9127f99
   - 7d98dfb04d27
+  - c78a5fc9e758
   - dc17e2878dc1
   - f04a2405f3fe
   - f5dcb87fd14e
@@ -403,6 +404,7 @@ tools:
   - 87cb9cb44d1f
   - 893285b150f8
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_id: machine_learning
@@ -413,6 +415,7 @@ tools:
   - 14f0ccc85505
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 63417d0acc72
   - 913bf1c4c7bb
   - 91c4e3331208
@@ -487,6 +490,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 222c02df5d55
   - 4a229a7ad638
   - 6fabdcde0214
@@ -500,6 +504,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554
