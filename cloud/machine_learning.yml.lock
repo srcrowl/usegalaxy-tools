@@ -6,6 +6,7 @@ tools:
 - name: sklearn_build_pipeline
   owner: bgruening
   revisions:
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 840f29aad145
   tool_panel_section_id: machine_learning
@@ -15,6 +16,7 @@ tools:
   revisions:
   - 25ab6b4e376e
   - 7626ea9c2e1b
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: plotly_parallel_coordinates_plot
@@ -27,6 +29,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 1a53edc4b438
   tool_panel_section_id: machine_learning
@@ -40,6 +43,7 @@ tools:
 - name: tabular_learner
   owner: goeckslab
   revisions:
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 4bd75b45a7a1
   - ba45bc057d70
@@ -58,6 +62,7 @@ tools:
   - 85e6f4b2ad18
   - 8729f69e9207
   - 9e912fce264c
+  - a2e4242653ec
   - b0d893d04d4c
   - bbf30253c99f
   - c460abae83eb
@@ -68,6 +73,7 @@ tools:
   owner: goeckslab
   revisions:
   - 36c5fcc49286
+  - 779d91d78ecf
   - b7ed0e483e4d
   - d13ba033cb84
   - ec4b9244f930
@@ -77,6 +83,7 @@ tools:
   owner: goeckslab
   revisions:
   - 0ee0bc6736a2
+  - 124eb5e5c5fc
   - 4d0d8859a0f2
   - 78b1e3921576
   - ec99e53e91d6

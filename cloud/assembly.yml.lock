@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -37,6 +38,7 @@ tools:
   owner: bgruening
   revisions:
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 3ef480892a9f
   - 59150c883ed5
   - 764f2516d837
