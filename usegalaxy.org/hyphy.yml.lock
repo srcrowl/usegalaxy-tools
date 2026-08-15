@@ -340,6 +340,7 @@ tools:
   - b0b16acfcbe3
   - b82429e9c6a9
   - d6f4ff2aed07
+  - e46726cd0c9e
   - ec499ddce7a9
   tool_panel_section_id: hyphy
   tool_panel_section_label: HyPhy
@@ -350,6 +351,7 @@ tools:
   - 011f70f720ac
   - 051642420aec
   - 056a5b14721d
+  - 07774580b606
   - 1527f00ddf7f
   - 188452adcaa0
   - 23b9bd244670
@@ -379,6 +381,7 @@ tools:
   - 50554f806e16
   - 7c86ceaf523c
   - a60caeb3c453
+  - aaf823b11580
   - dc8875a13914
   - ea698cd7e086
   - f5bbd4b34541
