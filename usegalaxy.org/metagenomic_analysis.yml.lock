@@ -165,6 +165,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -276,6 +277,7 @@ tools:
   - e8768ddeba32
   - e8fba04706d3
   - f732237754fc
+  - f8b8c95bff89
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_dada
@@ -288,6 +290,7 @@ tools:
   - 47198090501e
   - 6b4ddc3b64bd
   - 84fd33a60b35
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - f79565b12646
@@ -328,6 +331,7 @@ tools:
   revisions:
   - 0b884b080bb6
   - 1d75bd0595e2
+  - 2495262244bd
   - 273b8a00c8a2
   - 306a40d4bb8f
   - 35176674168c
@@ -347,6 +351,7 @@ tools:
   - 390bc2645138
   - 4cc834cce4fb
   - 7d28da5e9e27
+  - 86d6d6cda803
   - 9058d8943303
   - a7817705348e
   - d943081510da
@@ -523,6 +528,7 @@ tools:
   revisions:
   - 1a037928504c
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - 56ff60ec416d
   - 740fd2d16a28
@@ -615,6 +621,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   - ec045ca00b50
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -813,6 +820,7 @@ tools:
   owner: iuc
   revisions:
   - 36ea6d5441c3
+  - 39010c7012f2
   - 74767297a247
   - a99ca4bb4d1d
   tool_panel_section_id: metagenomic_analysis
@@ -823,6 +831,7 @@ tools:
   - 0f5f7fa9c08f
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_load
