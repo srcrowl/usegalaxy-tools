@@ -144,6 +144,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -225,6 +226,7 @@ tools:
   - 8d1af5db538d
   - ad80238462c1
   - d9f6a00b6db7
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -434,6 +436,7 @@ tools:
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -448,6 +451,7 @@ tools:
   owner: iuc
   revisions:
   - 3967889cda03
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly
@@ -652,6 +656,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly
