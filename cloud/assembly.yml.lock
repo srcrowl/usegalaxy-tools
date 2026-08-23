@@ -37,6 +37,7 @@ tools:
   owner: bgruening
   revisions:
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 3ef480892a9f
   - 59150c883ed5
   - 764f2516d837
@@ -105,6 +106,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - baf229b1fdfd
   - e5e767089163
@@ -169,6 +171,7 @@ tools:
   owner: iuc
   revisions:
   - 331109486d58
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
