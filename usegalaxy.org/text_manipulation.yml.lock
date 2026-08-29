@@ -12,6 +12,7 @@ tools:
   - 464b9305180e
   - 6595517c2dd8
   - 6e8d94597139
+  - 9bc5cdefb090
   - aff5135563c6
   - be25c075ed54
   tool_panel_section_id: text_manipulation
@@ -48,6 +49,7 @@ tools:
   - 06061aa49527
   - 3284b72eef56
   - 8061668d0868
+  - 8a19efbd2178
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: replace_column_by_key_value_file
@@ -63,6 +65,7 @@ tools:
   - 0a8c6b61f0f4
   - 12615d397df7
   - 20344ce0c811
+  - 30b60202d990
   - 3dc70b59608c
   - 6073bb457ec0
   - 60edf2f8c28f
@@ -89,6 +92,7 @@ tools:
   revisions:
   - 2040e4c2750a
   - 372967836e98
+  - 6428adb323eb
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: gff3_rebase
@@ -101,6 +105,7 @@ tools:
 - name: jq
   owner: iuc
   revisions:
+  - 4e62e523c2b6
   - 5ff75eb1a893
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -123,6 +128,7 @@ tools:
   - 56a8da1f2243
   - 60ff16842fcd
   - 93a3ce78ce55
+  - c656214aa052
   - cd36d6e45e29
   - dddadbbac949
   tool_panel_section_id: text_manipulation
@@ -177,6 +183,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 34d29339abab
   - 4d5aae46f850
   - 557ec8d7087d
@@ -189,6 +196,7 @@ tools:
   owner: bgruening
   revisions:
   - 6c6d26ff01ff
+  - dcc6bb900eee
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: add_line_to_file
