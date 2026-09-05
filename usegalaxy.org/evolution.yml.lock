@@ -29,6 +29,7 @@ tools:
   - 563c3aa769f2
   - 6bbd30d58cf4
   - 70acec670c30
+  - '856173762903'
   - 973a28be3b7f
   - 9b892d7f82cc
   - b8476e82ac20
@@ -42,6 +43,7 @@ tools:
   - 00a8c36fc98c
   - 2fd21f5b16bc
   - 9d793e88e15f
+  - a9d66dc6a767
   - b38f620a3628
   - ccebde0e2d61
   tool_panel_section_id: evolution
@@ -50,6 +52,7 @@ tools:
   owner: iuc
   revisions:
   - 017db1b776d9
+  - 1779a96f1d7c
   - 1aa73004ba9b
   - ba95715078c9
   - cf50aeb956f2
@@ -61,6 +64,7 @@ tools:
   - 112d80c9ccca
   - 476189b83931
   - af03f3398f03
+  - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
@@ -72,11 +76,13 @@ tools:
   - 84849140a3bc
   - bdaadfd0c843
   - c176164dc8a5
+  - d9a642ad8ece
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: tasmanian_mismatch
   owner: iuc
   revisions:
+  - 0a9610941788
   - 98f2b5dfdaa9
   - b15fbf90db53
   tool_panel_section_id: evolution

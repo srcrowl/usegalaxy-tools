@@ -14,6 +14,7 @@ tools:
   - a48e750cfd25
   - a5404f55ee6a
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   - ed2fefc8d892
   tool_panel_section_id: machine_learning
@@ -24,6 +25,7 @@ tools:
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -36,6 +38,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
@@ -66,6 +69,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7363de120cc2
   - 7d78a6afc958
   - afd0864d18b6
   - c5c324ac29fc
@@ -91,12 +95,14 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -123,6 +129,7 @@ tools:
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -132,6 +139,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -193,6 +201,7 @@ tools:
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 887e0aaa482e
   - 9dc28a4b6ca8
@@ -356,12 +365,14 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 55703205546f
@@ -386,6 +397,7 @@ tools:
   - 6db5c1dfb076
   - 70c5a9127f99
   - 7d98dfb04d27
+  - c78a5fc9e758
   - dc17e2878dc1
   - f04a2405f3fe
   - f5dcb87fd14e
@@ -413,6 +425,7 @@ tools:
   - 14f0ccc85505
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 63417d0acc72
   - 913bf1c4c7bb
   - 91c4e3331208

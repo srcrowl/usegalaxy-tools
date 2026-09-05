@@ -163,6 +163,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
@@ -211,6 +212,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - c4ba6aa27088
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -231,6 +233,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -360,6 +363,7 @@ tools:
   revisions:
   - 02831bf9e95f
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -388,6 +392,7 @@ tools:
   - 408ece2e4647
   - 75b4a2298714
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -652,6 +657,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly
