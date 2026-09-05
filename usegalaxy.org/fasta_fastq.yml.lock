@@ -33,6 +33,7 @@ tools:
   - de6cebe3c043
   - e4691e1589d3
   - f5fdf41c08b8
+  - f6168dd17f82
   - fe74900d6dc7
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -55,6 +56,7 @@ tools:
   - 350c736075eb
   - 480ddbd12a03
   - 65b93b623c77
+  - 68386e630362
   - a626e8c0e1ba
   - c59d48774d03
   - d60c3f704da0
@@ -182,6 +184,7 @@ tools:
 - name: seqkit_grep
   owner: iuc
   revisions:
+  - 02c253504d9b
   - 8bb1d9180ce7
   - df49645c6f6d
   tool_panel_section_id: fasta_fastq
@@ -402,6 +405,7 @@ tools:
   revisions:
   - 733ca84b21ee
   - 7521d865e770
+  - c6e3d6cf49df
   - d5c640895ed6
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
