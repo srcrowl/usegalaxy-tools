@@ -7,12 +7,14 @@ tools:
   owner: iuc
   revisions:
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -58,6 +60,7 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
   tool_panel_section_id: annotation
@@ -68,6 +71,7 @@ tools:
   - 2babe6d5c561
   - 4e70d88adf2f
   - c5a90fa4b8dd
+  - cc217867028e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_fcs_adaptor
@@ -79,6 +83,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -135,6 +140,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -165,5 +171,18 @@ tools:
   owner: iuc
   revisions:
   - 321ceb58023e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: remove_terminal_stop_codons
+  owner: iuc
+  revisions:
+  - 0290a7285026
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: drhip
+  owner: iuc
+  revisions:
+  - dd2d60b55e0d
+  - e301c523e83d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
