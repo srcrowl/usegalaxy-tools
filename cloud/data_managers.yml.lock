@@ -55,6 +55,7 @@ tools:
 - name: data_manager_hisat2_index_builder
   owner: iuc
   revisions:
+  - 596dfee9e3bc
   - d74c740bdb25
   - e4f36467bb51
   tool_panel_section_id: data_managers
@@ -85,6 +86,7 @@ tools:
 - name: data_manager_snpeff
   owner: iuc
   revisions:
+  - c3cdca7f40a2
   - def511e8e005
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -118,6 +120,7 @@ tools:
   - 4877dfefaacc
   - 539b008cfe1c
   - 54871a78828e
+  - 8367be242f35
   - 8c533e19b697
   - 90b4d4f0a3a4
   - e4b4837f06f5
