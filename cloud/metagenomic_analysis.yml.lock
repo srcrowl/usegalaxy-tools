@@ -8,6 +8,7 @@ tools:
   revisions:
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
@@ -28,6 +29,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2ef21eba2d01
   - 613ee22af97c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -35,6 +37,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
@@ -47,6 +50,7 @@ tools:
 - name: concoct_coverage_table
   owner: iuc
   revisions:
+  - 6a9c82cc3448
   - fd31cd168efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -79,6 +83,7 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
@@ -179,6 +184,7 @@ tools:
   revisions:
   - 00e0347751b1
   - e8768ddeba32
+  - f8b8c95bff89
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_learnerrors
@@ -213,6 +219,7 @@ tools:
   owner: iuc
   revisions:
   - 4efeb75704c8
+  - a6ceb91124fa
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -221,6 +228,7 @@ tools:
   revisions:
   - 213a3fda0b91
   - 390bc2645138
+  - 86d6d6cda803
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_assigntaxonomyaddspecies
@@ -245,6 +253,7 @@ tools:
 - name: mash_dist
   owner: iuc
   revisions:
+  - 45fb62c28c9b
   - c932095af671
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
