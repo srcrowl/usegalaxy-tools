@@ -16,6 +16,7 @@ tools:
   - 6f5349dd5c49
   - 70fa84e99463
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -176,6 +177,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 7e8c677a7b71
   - 8db95f488f0f
   - be1fdce914c6
@@ -232,6 +234,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 37a47c4fd84d
   - 41f34e925bd5
   - be4646256624
@@ -561,6 +564,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_barcode
@@ -693,6 +697,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
@@ -729,5 +734,6 @@ tools:
   owner: iuc
   revisions:
   - 46ed93e8da30
+  - a9085181e2a8
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
