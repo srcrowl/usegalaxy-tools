@@ -34,6 +34,7 @@ tools:
   owner: imgteam
   revisions:
   - 85edbb7a436b
+  - f0242f99a175
   - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
@@ -51,6 +52,7 @@ tools:
   revisions:
   - 37662cbf44b8
   - 66fe62b96281
+  - aece93442819
   - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging
@@ -117,6 +119,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - d78372040976
   - e8c9e104e109
   tool_panel_section_id: imaging
@@ -125,6 +128,7 @@ tools:
   owner: imgteam
   revisions:
   - 7b93ce5ec3ee
+  - e7d22ed256f3
   - f3fad67af22c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -181,6 +185,7 @@ tools:
   owner: imgteam
   revisions:
   - 4512751bccca
+  - dd4aa58e5362
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: superdsm
@@ -390,6 +395,7 @@ tools:
 - name: image_info
   owner: imgteam
   revisions:
+  - e28851b24032
   - f8b4eada923c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -408,12 +414,14 @@ tools:
 - name: imagej2_bunwarpj_compose_raw_elastic
   owner: imgteam
   revisions:
+  - 86886859d876
   - bdc70b34153a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_analyze_particles_binary
   owner: imgteam
   revisions:
+  - 0601a9056642
   - 862af85a50ec
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -427,17 +435,20 @@ tools:
   owner: imgteam
   revisions:
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_noise
   owner: imgteam
   revisions:
+  - 2b32aaa9a8b1
   - 73cc4e6a741d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -457,6 +468,7 @@ tools:
   owner: imgteam
   revisions:
   - 1f92b1da556b
+  - 93cb13a320fe
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_maxima
@@ -504,6 +516,7 @@ tools:
 - name: imagej2_bunwarpj_compare_raw
   owner: imgteam
   revisions:
+  - 2802f5bf9380
   - b0da913f048e
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -511,12 +524,14 @@ tools:
   owner: imgteam
   revisions:
   - bd2aadf0f589
+  - c9e87324073c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_make_binary
   owner: imgteam
   revisions:
   - 1cf9771e0e53
+  - ac4aee7dc64c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
@@ -534,12 +549,14 @@ tools:
 - name: imagej2_adjust_threshold_binary
   owner: imgteam
   revisions:
+  - 1e1715e2b53d
   - 2b007b1e6c1b
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -583,6 +600,7 @@ tools:
   owner: imgteam
   revisions:
   - 5d840cf51a67
+  - d91c748f7114
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: clip_image
@@ -613,6 +631,7 @@ tools:
   owner: imgteam
   revisions:
   - 48fa3ac55df2
+  - 8229f7f69d08
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: cp_cellprofiler
@@ -763,6 +782,7 @@ tools:
   owner: imgteam
   revisions:
   - 390943df8a35
+  - 7191fd16988f
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: crop_image

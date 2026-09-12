@@ -19,12 +19,14 @@ tools:
   - 12def6edac2f
   - 35b6fe4d481c
   - 6de175c1f6ef
+  - 788a4bac4a11
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_fillpeaks
   owner: lecorguille
   revisions:
   - 26d77e9ceb49
+  - 564d6ab0cf18
   - a8d866a71ba1
   - bb9ee352fce0
   - ec9aebabc1d2
@@ -80,6 +82,7 @@ tools:
   - 357df6c47d92
   - 3f7790b73906
   - 83c4b4359ac4
+  - a26afcf352fd
   - a6583110825c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -114,6 +117,7 @@ tools:
   owner: recetox
   revisions:
   - 984d5fa7acf5
+  - 9b2fe4c49ecb
   - af25aa61c611
   - c702620c22b1
   - f6bf8f1f3224
@@ -128,6 +132,7 @@ tools:
   - 821062fc5782
   - b77023c41c76
   - bf32ae95a06f
+  - e9fa79966366
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: camera_annotate
@@ -137,6 +142,7 @@ tools:
   - 4b9ab71be05e
   - 512c2b701d96
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_export_samplemetadata
@@ -155,6 +161,7 @@ tools:
   - 8846a03995d3
   - 9291271ec4d9
   - c8bef8f6a1cb
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary

@@ -211,6 +211,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - c4ba6aa27088
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -267,6 +268,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -360,6 +362,7 @@ tools:
   revisions:
   - 02831bf9e95f
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -379,6 +382,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - cfc412b91a57
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
