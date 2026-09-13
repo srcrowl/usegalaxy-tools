@@ -35,6 +35,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
@@ -47,6 +48,7 @@ tools:
 - name: concoct_coverage_table
   owner: iuc
   revisions:
+  - 6a9c82cc3448
   - fd31cd168efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

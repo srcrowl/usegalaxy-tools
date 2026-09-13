@@ -95,6 +95,7 @@ tools:
   - 0bf7fddf90c7
   - 286a24ac079c
   - 33c0081e16c6
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 9301df6f892d
@@ -141,6 +142,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
@@ -153,6 +155,7 @@ tools:
   - 43c146e25a43
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - c891d8b33ede
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -162,12 +165,14 @@ tools:
   - 0bff0ee0683a
   - 49776718ae90
   - a4b734cd253b
+  - d2755d6016ca
   - f911a64454fb
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 72979cac22b2
@@ -177,6 +182,7 @@ tools:
 - name: raceid_inspecttrajectory
   owner: iuc
   revisions:
+  - 42a08854eb66
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
