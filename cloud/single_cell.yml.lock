@@ -74,6 +74,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -95,6 +96,7 @@ tools:
   - 0bf7fddf90c7
   - 286a24ac079c
   - 33c0081e16c6
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 9301df6f892d
@@ -107,6 +109,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 27f120c69246
   - 4c9fa3c63d9e
   - a7b951572609
   - c822c5c1feef
@@ -259,6 +262,7 @@ tools:
   revisions:
   - 38db3fef7aad
   - 49ce1315722c
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -268,6 +272,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
@@ -282,6 +287,7 @@ tools:
   revisions:
   - 27c054e8d949
   - 3b5ef3b00cdd
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - d86cb2ce311b
