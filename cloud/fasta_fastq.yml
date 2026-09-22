@@ -46,3 +46,9 @@ tools:
   owner: iuc
 - name: seqkit_translate
   owner: iuc
+- name: falco
+  owner: iuc
+- name: ucsc_fasplit
+  owner: iuc
+- name: seqkit_split2
+  owner: iuc
