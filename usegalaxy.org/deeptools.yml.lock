@@ -43,6 +43,7 @@ tools:
   - 010e58e9d822
   - 25d830337d31
   - 42cb23d80271
+  - 7fdfac4711b2
   - a4dfb122e52b
   - a7849312d328
   - e4c7985d4585
@@ -62,6 +63,7 @@ tools:
   owner: bgruening
   revisions:
   - 4431f39ede55
+  - 88b89b29d871
   - 88ce7fed1488
   - c03c3384cd81
   - d9114ef1c8a5
@@ -72,6 +74,7 @@ tools:
   owner: bgruening
   revisions:
   - 231994413f89
+  - 3208df1c919e
   - 4e12ea27f788
   - 56bce3c82278
   - 7fda5607e777
@@ -114,6 +117,7 @@ tools:
   - 00a71ff7c06b
   - 2c37ce318bc3
   - 5bffaa8354a1
+  - 7e3c511d4d24
   - c34d11ea4ba6
   - e479c7ca5570
   tool_panel_section_id: deeptools
@@ -121,6 +125,7 @@ tools:
 - name: deeptools_compute_matrix
   owner: bgruening
   revisions:
+  - 1030f37ff2f0
   - 167788df3b46
   - 19bb3e6d9e31
   - 514fa53b5efb
@@ -161,6 +166,7 @@ tools:
   - 195e98217334
   - 1d848bc4585f
   - 3f9dc453c0e8
+  - 5d44209e86ad
   - 62eb6d63f582
   - c06951d10364
   tool_panel_section_id: deeptools
@@ -168,6 +174,7 @@ tools:
 - name: deeptools_bam_compare
   owner: bgruening
   revisions:
+  - 09d1214b45d1
   - 268e91e540ee
   - 29451af70c52
   - c89b665b45e4
@@ -178,6 +185,7 @@ tools:
 - name: deeptools_bigwig_average
   owner: bgruening
   revisions:
+  - 3c478e39df6a
   - 4a53856a5b85
   - f6f246438eda
   tool_panel_section_id: deeptools
