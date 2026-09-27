@@ -64,6 +64,7 @@ tools:
   revisions:
   - 137c4beed34b
   - 3c9f0c486cca
+  - ec28c2928823
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_correlation

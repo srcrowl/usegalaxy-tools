@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -105,6 +106,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - baf229b1fdfd
   - e5e767089163
@@ -121,6 +123,7 @@ tools:
   owner: iuc
   revisions:
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 9c942221e135
   - c6cec5ab35c1
   tool_panel_section_id: assembly
@@ -169,6 +172,7 @@ tools:
   owner: iuc
   revisions:
   - 331109486d58
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
