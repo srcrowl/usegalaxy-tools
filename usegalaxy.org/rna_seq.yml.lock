@@ -76,6 +76,7 @@ tools:
   - 76d290331481
   - 8eb8750070d4
   - 914cfcba0ec8
+  - 92198ab2345f
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -86,6 +87,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
@@ -131,6 +133,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 05f9e54d7e81
   - 0696db066a5b
   - 2275d0688bca
   - 6a3a025714d3

@@ -50,6 +50,7 @@ tools:
   - 2477830927ec
   - 3fe632431b68
   - 64f11cf59c6e
+  - c598cbb8b019
   - e188dc7a68e6
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -159,6 +160,7 @@ tools:
   owner: iuc
   revisions:
   - 20ab37575227
+  - 23d04eabbac5
   - 3171f7f52576
   - 3f94a2e3d513
   - 456d8ebb6a28
@@ -211,6 +213,7 @@ tools:
   - 4cd7884635c2
   - 78c4cef2b5a9
   - 79182c2a8c80
+  - 97c8a5fbcca0
   - a68e128cdb1a
   - aa5586d83ae3
   - d10e7502aba8
@@ -278,6 +281,7 @@ tools:
   revisions:
   - 91674d4623a8
   - 9f2d2c96a189
+  - ca3572fb1eab
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_netchainsubset
