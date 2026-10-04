@@ -38,7 +38,9 @@ tools:
 - name: bcftools_norm
   owner: iuc
   revisions:
+  - 262d695b5456
   - 271965b55437
+  - 5226c31ac6d3
   - 5fa262ce95dd
   - c077f71d351f
   tool_panel_section_id: vcf_bcf
@@ -103,6 +105,7 @@ tools:
   owner: iuc
   revisions:
   - 05f317e50e61
+  - 2844fbbcaa92
   - c3c930926708
   - d40d4bf05718
   tool_panel_section_id: vcf_bcf
