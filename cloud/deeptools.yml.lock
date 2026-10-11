@@ -13,6 +13,7 @@ tools:
 - name: deeptools_plot_heatmap
   owner: bgruening
   revisions:
+  - 7fdfac4711b2
   - a4dfb122e52b
   - e4c7985d4585
   tool_panel_section_id: deeptools
@@ -49,6 +50,7 @@ tools:
   owner: bgruening
   revisions:
   - 2c37ce318bc3
+  - 7e3c511d4d24
   - e479c7ca5570
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -71,6 +73,7 @@ tools:
   revisions:
   - 32e451def88c
   - bad3ca889618
+  - c3dfef526d03
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_coverage

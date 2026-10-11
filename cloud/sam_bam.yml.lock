@@ -98,6 +98,7 @@ tools:
   - 40fa6c240105
   - 56fb540810ce
   - 83b8e36e9cbe
+  - a50321bc1a90
   - b5527cc104ab
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
