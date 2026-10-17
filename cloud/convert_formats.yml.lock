@@ -12,6 +12,8 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
+  - 6c56786c9d1a
   - 9f1c8dc0253e
   - a5ef8d31c40e
   - c6b5c2975e51
@@ -20,7 +22,9 @@ tools:
 - name: tooldistillator_summarize
   owner: iuc
   revisions:
+  - 3a66889baf43
   - 3d0223265277
+  - 95a71120949f
   - a4506449c300
   - f4f71128f097
   tool_panel_section_id: convert_formats
@@ -49,6 +53,7 @@ tools:
 - name: biom_convert
   owner: iuc
   revisions:
+  - b3858ab7f598
   - d4d4e9febf5c
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
