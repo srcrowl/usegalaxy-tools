@@ -113,6 +113,7 @@ tools:
 - name: riassigner
   owner: recetox
   revisions:
+  - 3af9c2de8522
   - 984d5fa7acf5
   - af25aa61c611
   - c702620c22b1
@@ -126,6 +127,7 @@ tools:
   - 1a2aeb8137bf
   - 6fc9f6dbcef5
   - 821062fc5782
+  - 9c417575eb83
   - b77023c41c76
   - bf32ae95a06f
   tool_panel_section_id: metabolomics
