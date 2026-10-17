@@ -390,6 +390,7 @@ tools:
   - 6a8febad1f6c
   - 77889ed49dbc
   - a941babb9268
+  - d2f176e331ef
   - f20b704ba069
   - f597cb9b33bf
   tool_panel_section_id: sam_bam
@@ -404,6 +405,7 @@ tools:
   owner: iuc
   revisions:
   - 2fe966f8532e
+  - 4413217d872c
   - 5854d0da92b4
   - b1a8d09e5a82
   tool_panel_section_id: sam_bam
