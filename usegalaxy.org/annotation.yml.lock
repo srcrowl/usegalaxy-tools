@@ -19,6 +19,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -70,6 +71,7 @@ tools:
   - 602fb8e63aa7
   - 94170eee0ad8
   - c5a90fa4b8dd
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -160,6 +162,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -533,12 +536,14 @@ tools:
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
@@ -576,6 +581,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -618,6 +624,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -637,6 +644,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -751,5 +759,29 @@ tools:
   owner: iuc
   revisions:
   - 37bcc9fb0bb1
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: remove_terminal_stop_codons
+  owner: iuc
+  revisions:
+  - 0290a7285026
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: drhip
+  owner: iuc
+  revisions:
+  - e301c523e83d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_paths
+  owner: iuc
+  revisions:
+  - 7f622ac47f04
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_giraffe
+  owner: iuc
+  revisions:
+  - 479e4a566537
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
