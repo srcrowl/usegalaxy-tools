@@ -102,6 +102,7 @@ tools:
   - 4f9c4e6566e5
   - 60f888039fb2
   - c971db6f0fe5
+  - f71c54748ff2
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: kallisto_pseudo
@@ -159,6 +160,7 @@ tools:
   - b9e04854e2bb
   - c772497b2c32
   - d5659efd66aa
+  - d8d32326fbfb
   - de21b616f03a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -176,6 +178,7 @@ tools:
   - 67b0b160903a
   - 8f6836089479
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   - fb117b3ee99a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -516,6 +519,7 @@ tools:
   revisions:
   - 06ac35533793
   - 38d2b1f38992
+  - a2bba8b2db55
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: blockbuster
@@ -537,6 +541,7 @@ tools:
   - 298d81e5e138
   - b3f292d9f35d
   - d3377a16d881
+  - ecb3e2432f4f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: brew3r_r

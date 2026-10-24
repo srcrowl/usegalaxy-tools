@@ -28,6 +28,7 @@ tools:
   owner: bgruening
   revisions:
   - 8b1d0e4e8f22
+  - a1aa623d2122
   - e79c38f1752c
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
