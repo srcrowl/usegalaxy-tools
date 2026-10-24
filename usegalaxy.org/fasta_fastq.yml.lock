@@ -54,6 +54,7 @@ tools:
   - 3432a0e49b86
   - 350c736075eb
   - 480ddbd12a03
+  - 4990e6f1348f
   - 65b93b623c77
   - a626e8c0e1ba
   - c59d48774d03
@@ -105,6 +106,7 @@ tools:
 - name: length_and_gc_content
   owner: iuc
   revisions:
+  - 0e7eadbd461c
   - e3ba567abdf5
   - f088370d2a3c
   tool_panel_section_id: fasta_fastq
@@ -184,11 +186,13 @@ tools:
   revisions:
   - 8bb1d9180ce7
   - df49645c6f6d
+  - e69d05d86d79
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0a429822c6a5
   - 22a535d54360
   - 911de3a36b31
   - c19015f577a5
