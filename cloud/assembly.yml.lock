@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -49,6 +50,7 @@ tools:
   - 1b1cf0c96501
   - 72472698a2df
   - a3b35edea53a
+  - cbc516cee202
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: megahit
@@ -60,12 +62,14 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 434f2a6c3ade
   - f192c2fbe13f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - bfab6f5b449d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -121,6 +125,7 @@ tools:
   owner: iuc
   revisions:
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 9c942221e135
   - c6cec5ab35c1
   tool_panel_section_id: assembly
@@ -131,6 +136,7 @@ tools:
   - 36ce83a739f2
   - 408ece2e4647
   - 936a1edffce8
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: purge_dups

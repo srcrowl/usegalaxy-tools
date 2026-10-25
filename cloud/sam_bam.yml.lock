@@ -197,6 +197,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 69dca890852c
   - d54a4df48867
   - e613c1ad4c4c
