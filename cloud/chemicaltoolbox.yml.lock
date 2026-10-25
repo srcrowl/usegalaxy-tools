@@ -154,6 +154,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 1c7e10729065
   - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox

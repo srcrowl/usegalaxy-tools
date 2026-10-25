@@ -8,6 +8,7 @@ tools:
   revisions:
   - 4c4ec859c31a
   - 840f29aad145
+  - bf5b6f5a18ed
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_searchcv
@@ -15,6 +16,7 @@ tools:
   revisions:
   - 25ab6b4e376e
   - 7626ea9c2e1b
+  - 8eb081549c98
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: plotly_parallel_coordinates_plot
@@ -29,6 +31,7 @@ tools:
   revisions:
   - 060ca94ac049
   - 1a53edc4b438
+  - 398c7e90ded2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: plotly_regression_performance_plots
@@ -41,6 +44,7 @@ tools:
   owner: goeckslab
   revisions:
   - 0afd970bd8ae
+  - 2c0dae52bcca
   - 4bd75b45a7a1
   - ba45bc057d70
   - bf0df21a1ea3
@@ -58,6 +62,7 @@ tools:
   - 85e6f4b2ad18
   - 8729f69e9207
   - 9e912fce264c
+  - a2e4242653ec
   - b0d893d04d4c
   - bbf30253c99f
   - c460abae83eb
@@ -68,6 +73,7 @@ tools:
   owner: goeckslab
   revisions:
   - 36c5fcc49286
+  - 779d91d78ecf
   - b7ed0e483e4d
   - d13ba033cb84
   - ec4b9244f930
@@ -77,6 +83,7 @@ tools:
   owner: goeckslab
   revisions:
   - 0ee0bc6736a2
+  - 124eb5e5c5fc
   - 4d0d8859a0f2
   - 78b1e3921576
   - ec99e53e91d6
