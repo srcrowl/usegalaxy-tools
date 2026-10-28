@@ -35,6 +35,7 @@ tools:
   - 7594365c546b
   - 875d0f36d66f
   - a3b35edea53a
+  - cbc516cee202
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -88,7 +89,9 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
+  - 434f2a6c3ade
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -225,6 +228,7 @@ tools:
   - 8d1af5db538d
   - ad80238462c1
   - d9f6a00b6db7
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -267,6 +271,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -360,6 +365,8 @@ tools:
   revisions:
   - 02831bf9e95f
   - 0346286a3b0a
+  - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -388,6 +395,7 @@ tools:
   - 408ece2e4647
   - 75b4a2298714
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -396,6 +404,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -440,6 +449,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly
@@ -465,6 +475,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -654,5 +665,6 @@ tools:
   revisions:
   - 321ceb58023e
   - 6c1cfce7c2eb
+  - d0f5d9821854
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
