@@ -14,6 +14,7 @@ tools:
   - a48e750cfd25
   - a5404f55ee6a
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   - ed2fefc8d892
   tool_panel_section_id: machine_learning
@@ -145,6 +146,7 @@ tools:
   owner: bgruening
   revisions:
   - 253b3aaf0d91
+  - 848d5a2bdf61
   - ae4b593c99f8
   - b78007bf1cb8
   - b8378d4791b7
@@ -388,6 +390,7 @@ tools:
   - 7d98dfb04d27
   - dc17e2878dc1
   - f04a2405f3fe
+  - f55053c4a5ec
   - f5dcb87fd14e
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -513,6 +516,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 3af626081467
   - 945a53c248de

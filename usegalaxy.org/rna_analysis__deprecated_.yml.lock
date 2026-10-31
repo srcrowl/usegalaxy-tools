@@ -37,12 +37,14 @@ tools:
   - 679d93c99757
   - 6dc45faebc1d
   - 93148c05136f
+  - a55f47f580e9
   tool_panel_section_id: rna_analysis__deprecated_
   tool_panel_section_label: RNA Analysis (deprecated)
 - name: cuffnorm
   owner: devteam
   revisions:
   - 28b94cfbfdb9
+  - 7e58536d5cc6
   - 9a854107dbb2
   - f5b2ee725d34
   tool_panel_section_id: rna_analysis__deprecated_

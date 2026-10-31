@@ -184,6 +184,7 @@ tools:
   - 090cbf2cb339
   - 371e4e21d5de
   - 544ea81a6914
+  - 992d8a5d3d62
   - c64bee2dc319
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -261,6 +262,7 @@ tools:
   owner: iuc
   revisions:
   - 1999f87602f7
+  - 595b7f566734
   - a28010c3ac9b
   - d2039064b27d
   tool_panel_section_id: mapping

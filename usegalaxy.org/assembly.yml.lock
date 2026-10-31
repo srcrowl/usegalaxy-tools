@@ -137,6 +137,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 7170a53ee406
   - a9aa4115cb68
   - b65a43f70b99
   - d159735a6a9f
@@ -379,6 +380,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - da25e82a51a8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
@@ -465,6 +467,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
