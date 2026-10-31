@@ -54,6 +54,7 @@ tools:
   - 2da482e408b8
   - 4ed32329e0ed
   - b88ebb3672a1
+  - c0893efd5a8f
   - ca8a7f0ea872
   - d57251071381
   tool_panel_section_id: deeptools
@@ -85,6 +86,7 @@ tools:
   - 32e451def88c
   - bad3ca889618
   - bd7db9e2f2cb
+  - c3dfef526d03
   - e44978659400
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
