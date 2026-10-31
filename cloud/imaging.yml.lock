@@ -29,6 +29,7 @@ tools:
 - name: bfconvert
   owner: imgteam
   revisions:
+  - f0242f99a175
   - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
@@ -45,6 +46,7 @@ tools:
   owner: imgteam
   revisions:
   - 66fe62b96281
+  - aece93442819
   - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging
@@ -134,5 +136,35 @@ tools:
   revisions:
   - 2dc244356765
   - 91dfd38a97ae
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: image_info
+  owner: imgteam
+  revisions:
+  - e28851b24032
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: color_deconvolution
+  owner: imgteam
+  revisions:
+  - 0cbdf78fee14
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: split_image
+  owner: imgteam
+  revisions:
+  - 7191fd16988f
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_analyze_particles_binary
+  owner: imgteam
+  revisions:
+  - 0601a9056642
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: 2d_feature_extraction
+  owner: imgteam
+  revisions:
+  - 519fad2c552a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
