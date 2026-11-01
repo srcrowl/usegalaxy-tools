@@ -14,6 +14,7 @@ tools:
   - 8e264b67a8c0
   - aa784cb3810d
   - c5e2e5902201
+  - e075c7e866d1
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_filter
@@ -50,6 +51,7 @@ tools:
 - name: fastq_paired_end_deinterlacer
   owner: devteam
   revisions:
+  - 33e27e311d03
   - 523c2aff0376
   - c48cf4699be7
   - f3936d0632cb
@@ -145,6 +147,7 @@ tools:
   revisions:
   - 8511b6d85fc7
   - a019807f4e67
+  - c8fb17965c7d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_filter_by_length

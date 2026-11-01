@@ -8,6 +8,7 @@ tools:
   revisions:
   - 8aa352093d73
   - 9a260f6fab93
+  - b75e49f360de
   - d6dc477167f8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -17,6 +18,7 @@ tools:
   - 672b6c02fbc7
   - 68d04cd5d35a
   - 7b4454382d39
+  - d1ffe13f696e
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_fixploidy
@@ -25,11 +27,13 @@ tools:
   - '365325116147'
   - dd72ff87cfd0
   - f203ea355bc8
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_convert_to_vcf
   owner: iuc
   revisions:
+  - 4bbdf586aeff
   - 68736d355615
   - cfd81f17580b
   - fec517907949
@@ -38,6 +42,7 @@ tools:
 - name: bcftools_norm
   owner: iuc
   revisions:
+  - 262d695b5456
   - 271965b55437
   - 5fa262ce95dd
   - c077f71d351f
@@ -46,6 +51,7 @@ tools:
 - name: bcftools_query_list_samples
   owner: iuc
   revisions:
+  - 2261ddc23215
   - 2c80b0d6bde0
   - ed4ea9de1791
   - fb631fd605e8
@@ -54,6 +60,7 @@ tools:
 - name: bcftools_plugin_missing2ref
   owner: iuc
   revisions:
+  - 433f1673736a
   - 793ae03deb13
   - 8b260d252ff4
   - dfef7a353ed0
@@ -63,6 +70,7 @@ tools:
   owner: iuc
   revisions:
   - 01d6b7d6365e
+  - 2b7e7aa56527
   - 61dfbc82ffc8
   - ccb83bf54de0
   tool_panel_section_id: vcf_bcf
@@ -103,6 +111,7 @@ tools:
   owner: iuc
   revisions:
   - 05f317e50e61
+  - 2844fbbcaa92
   - c3c930926708
   - d40d4bf05718
   tool_panel_section_id: vcf_bcf
@@ -111,6 +120,7 @@ tools:
   owner: iuc
   revisions:
   - 012656fd329f
+  - 506cb7ed2a11
   - a20d6492132d
   - b8e9da766b0f
   tool_panel_section_id: vcf_bcf
@@ -150,6 +160,7 @@ tools:
 - name: bcftools_plugin_fill_tags
   owner: iuc
   revisions:
+  - 26657b72001e
   - b10d1510fa84
   - bf7d6acd9884
   - fea209b23f19
@@ -198,6 +209,7 @@ tools:
 - name: bcftools_filter
   owner: iuc
   revisions:
+  - 1c7dee9f0bf8
   - 3502f0e1f0e4
   - 46fcafba49ec
   - 6ca7c55a27e8
@@ -206,6 +218,7 @@ tools:
 - name: bcftools_csq
   owner: iuc
   revisions:
+  - 633588f5cf1b
   - 9f69e7d58d03
   - d237eaef451f
   - fdd127bd4a32
@@ -266,6 +279,7 @@ tools:
   owner: devteam
   revisions:
   - 01e0321aca98
+  - 064b9acd58c5
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfannotategenotypes
@@ -309,6 +323,7 @@ tools:
   owner: devteam
   revisions:
   - 11f62f071125
+  - 5f945f9e1207
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfflatten
@@ -320,6 +335,7 @@ tools:
 - name: vcfgeno2haplo
   owner: devteam
   revisions:
+  - 1f387bdec36f
   - a3dea556218d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -345,6 +361,7 @@ tools:
   owner: devteam
   revisions:
   - 17096387c0e6
+  - e87a701d9452
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfrandomsample

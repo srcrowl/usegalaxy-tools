@@ -6,6 +6,7 @@ tools:
 - name: deeptools_compute_matrix
   owner: bgruening
   revisions:
+  - 1030f37ff2f0
   - 514fa53b5efb
   - a60c359ec43c
   tool_panel_section_id: deeptools
@@ -13,6 +14,7 @@ tools:
 - name: deeptools_plot_heatmap
   owner: bgruening
   revisions:
+  - 7fdfac4711b2
   - a4dfb122e52b
   - e4c7985d4585
   tool_panel_section_id: deeptools
@@ -56,6 +58,7 @@ tools:
   owner: bgruening
   revisions:
   - 01fb6a7654e6
+  - 3d5024351691
   - 78f405266706
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -84,6 +87,7 @@ tools:
   owner: bgruening
   revisions:
   - 4431f39ede55
+  - 88b89b29d871
   - e65d16fb2724
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -99,6 +103,7 @@ tools:
   revisions:
   - 443d9a9d6d11
   - 69264da0ce77
+  - c59e0acb4e0b
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_bam_coverage
