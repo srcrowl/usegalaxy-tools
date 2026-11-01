@@ -16,6 +16,7 @@ tools:
   revisions:
   - 5ae5c312d718
   - ce5d418183c5
+  - e4eb8c4a82f6
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: kallisto_quant
@@ -72,6 +73,7 @@ tools:
   owner: iuc
   revisions:
   - 1ebd14235b92
+  - a356a3e21032
   - cbf488da3b2c
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -83,6 +85,7 @@ tools:
   - 30f6985f0ac7
   - 38b6d12edc68
   - 5dbff3a5845a
+  - ce3c9c1ac7ca
   - f3a5f075498f
   - f9d49f5cb597
   tool_panel_section_id: rna_seq
