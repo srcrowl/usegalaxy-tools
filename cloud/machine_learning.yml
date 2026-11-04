@@ -18,3 +18,19 @@ tools:
   owner: goeckslab
 - name: ludwig_experiment
   owner: goeckslab
+- name: sklearn_label_encoder
+  owner: bgruening
+- name: sklearn_to_categorical
+  owner: bgruening
+- name: sklearn_train_test_split
+  owner: bgruening
+- name: keras_model_config
+  owner: bgruening
+- name: keras_model_builder
+  owner: bgruening
+- name: keras_train_and_eval
+  owner: bgruening
+- name: model_prediction
+  owner: bgruening
+- name: ml_visualization_ex
+  owner: bgruening
