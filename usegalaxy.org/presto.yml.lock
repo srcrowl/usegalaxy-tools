@@ -65,6 +65,7 @@ tools:
   - 36ad790eda96
   - 98b0b4c22e69
   - df0797c61790
+  - fa69b6752845
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
 - name: presto_filterseq
@@ -74,6 +75,7 @@ tools:
   - 33a09d40751f
   - 4a4e086f6e38
   - 7b102129b1e8
+  - d6a978ce14dd
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
 - name: presto_collapseseq
