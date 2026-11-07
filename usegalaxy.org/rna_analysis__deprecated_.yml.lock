@@ -63,6 +63,7 @@ tools:
   - 43221aef70e2
   - a85acc5199c7
   - af3e173cad7f
+  - cd969b7f207c
   - d3ae7d9c2202
   tool_panel_section_id: rna_analysis__deprecated_
   tool_panel_section_label: RNA Analysis (deprecated)

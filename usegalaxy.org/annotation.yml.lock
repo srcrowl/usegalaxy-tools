@@ -19,6 +19,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -512,6 +513,7 @@ tools:
 - name: windowmasker
   owner: iuc
   revisions:
+  - 81da9f1757b1
   - d90ae4a02efd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -691,6 +693,7 @@ tools:
   owner: iuc
   revisions:
   - 71863d3bf721
+  - e26abfad8ce5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmbuild
@@ -708,6 +711,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 544bf9c95490
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -721,6 +725,7 @@ tools:
   owner: iuc
   revisions:
   - 4a54e4c9188b
+  - ec70edb4acd4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmsearch

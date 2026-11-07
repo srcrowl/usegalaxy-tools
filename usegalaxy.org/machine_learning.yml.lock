@@ -132,6 +132,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3fbbea66522d
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -226,6 +227,7 @@ tools:
   - ab2c393080f9
   - ab9977548806
   - b4ba9602a36e
+  - cb2cfcaf6ba8
   - db7eb7302fc9
   - e99cccc3ca13
   - eb41d87cb1de
@@ -262,6 +264,7 @@ tools:
   - 97dce66fe158
   - 9c3e1d3235c8
   - b1eda492f063
+  - bf5b6f5a18ed
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -272,6 +275,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 383d5372a90d
   - 7366e5108e9f
   - 7614281473da
   - b07416ec8d16
@@ -462,6 +466,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 6ff5b1978b0c
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
@@ -500,6 +505,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 19e086c622db
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554
@@ -542,6 +548,7 @@ tools:
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111
+  - a1478b43a349
   - b7e93c1deb3f
   - e6893a4bcb7b
   tool_panel_section_id: machine_learning
