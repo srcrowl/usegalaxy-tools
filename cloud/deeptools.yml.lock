@@ -27,6 +27,7 @@ tools:
 - name: deeptools_bam_pe_fragmentsize
   owner: bgruening
   revisions:
+  - 5d44209e86ad
   - 62eb6d63f582
   - c06951d10364
   tool_panel_section_id: deeptools
@@ -36,6 +37,7 @@ tools:
   revisions:
   - 07418a30ed01
   - 26e7304d6737
+  - dc53544cb243
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_compute_gc_bias
@@ -77,6 +79,7 @@ tools:
   owner: bgruening
   revisions:
   - 231994413f89
+  - 3208df1c919e
   - 56bce3c82278
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools

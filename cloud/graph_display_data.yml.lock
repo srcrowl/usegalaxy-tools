@@ -15,6 +15,7 @@ tools:
 - name: circos
   owner: iuc
   revisions:
+  - 6eeb8f9a22ea
   - c4bde687c846
   - df7356989ac1
   tool_panel_section_id: graph_display_data
@@ -32,6 +33,7 @@ tools:
   - 11c344627e52
   - 2f557f6abbfb
   - 5e08a1e22dbc
+  - 717c6164fea4
   - 73b8cb5bddcd
   - 83c573f2e73c
   - c0b740d23adc
@@ -68,6 +70,7 @@ tools:
 - name: bandage
   owner: iuc
   revisions:
+  - 86ec2f06de3c
   - ddddce450736
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -76,11 +79,13 @@ tools:
   revisions:
   - 10515715c940
   - 15cebddc6dba
+  - 28320e68ff9f
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: newick_utils
   owner: iuc
   revisions:
+  - 77a7e69dd018
   - b4163d2f64ab
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -90,11 +95,13 @@ tools:
   - 0cc7a80463b9
   - 26f2fe7e53a1
   - 9ec9c22767c8
+  - da25e82a51a8
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_point
   owner: iuc
   revisions:
+  - 1336484a4e6b
   - 3b12bf9b4b87
   - f87634b12749
   tool_panel_section_id: graph_display_data
