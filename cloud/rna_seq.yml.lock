@@ -6,6 +6,7 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
+  - 29e12b90949d
   - 30d90b851d3c
   - cc05793bb896
   - f4d5237a84f6
@@ -16,6 +17,7 @@ tools:
   revisions:
   - 5ae5c312d718
   - ce5d418183c5
+  - e4eb8c4a82f6
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: kallisto_quant
@@ -34,6 +36,7 @@ tools:
   - 8fe98f7094de
   - 9a882d108833
   - cd9874cb9019
+  - eaeb33f475e9
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: limma_voom
@@ -73,6 +76,7 @@ tools:
   revisions:
   - 1ebd14235b92
   - cbf488da3b2c
+  - ff365aa70906
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: featurecounts
