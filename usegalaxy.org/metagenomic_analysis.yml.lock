@@ -6,6 +6,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 241a78eb2935
   - 328c607150ff
@@ -29,12 +30,14 @@ tools:
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
+  - ad7226fac56d
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: vsearch
   owner: iuc
   revisions:
+  - 010235ce52d2
   - 9495df9dd6ef
   - b3c7199d8786
   tool_panel_section_id: metagenomic_analysis
@@ -42,6 +45,7 @@ tools:
 - name: vegan_rarefaction
   owner: iuc
   revisions:
+  - 2e07478654b3
   - af1211ed6c8e
   - b0d5976540e3
   tool_panel_section_id: metagenomic_analysis
@@ -50,12 +54,14 @@ tools:
   owner: iuc
   revisions:
   - 0148e5cf20b2
+  - 9e3206d6c148
   - f9966e11885b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -66,6 +72,7 @@ tools:
   - 1902d3de4a4f
   - 1c677354ab18
   - 6c09bed3444f
+  - 7941dd15d0a0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken
@@ -74,11 +81,13 @@ tools:
   - 766d5f63b0f4
   - 8ba2174315aa
   - aec58624706f
+  - d429429e580a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -112,6 +121,7 @@ tools:
   - 6ef0b5664c69
   - a3b86937ead6
   - ab9350a8ab4d
+  - c4a507fed537
   - dad9da48a09a
   - e3cbd2287f63
   tool_panel_section_id: metagenomic_analysis
@@ -119,6 +129,7 @@ tools:
 - name: biom_convert
   owner: iuc
   revisions:
+  - 081cc9a9a738
   - 091bb5922a82
   - 0de92f0b96ef
   - 1b5fc03380d4
@@ -138,6 +149,7 @@ tools:
   - 9a5be5b1a5c9
   - 9bdcba262627
   - bc3e90fd13be
+  - f48bf782723a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_filter
@@ -146,6 +158,7 @@ tools:
   - 3d6570bffdb1
   - 5bee9adae474
   - 67236d921e83
+  - c605203be45d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2tax
@@ -165,6 +178,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -271,6 +285,7 @@ tools:
   - 34e55239e68b
   - 777f9846c56d
   - a9f4a217dcd6
+  - ad574c1621ac
   - addaf9d22850
   - ca73bbac615a
   - e8768ddeba32
@@ -318,6 +333,7 @@ tools:
   - 88677f452aea
   - 99c6929236fa
   - 9ccec6ed8e82
+  - ab69311d2da2
   - bfd62e881837
   - e96bbb9e24ea
   - ebd632e95aae
@@ -375,6 +391,7 @@ tools:
   revisions:
   - 1061711538c6
   - 2c763fb18010
+  - 78ad71f8eca0
   - 98b53d46e851
   - adb3dd5a899f
   tool_panel_section_id: metagenomic_analysis
@@ -595,6 +612,7 @@ tools:
   owner: iuc
   revisions:
   - 8f32dcfde5d9
+  - b761da3edc76
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -615,6 +633,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   - ec045ca00b50
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -828,6 +847,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 05d7672c6bed
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
@@ -838,6 +858,7 @@ tools:
   owner: iuc
   revisions:
   - 30e275ed0442
+  - d177e58c5a5e
   - f1d1dafc836d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -851,11 +872,13 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
   owner: iuc
   revisions:
+  - 0689d28fecdf
   - 99ff9221182c
   - afee33334a63
   - b5a7583b8db0
@@ -871,6 +894,7 @@ tools:
 - name: concoct
   owner: iuc
   revisions:
+  - 396cce609c04
   - eae7ee167917
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -911,6 +935,7 @@ tools:
 - name: drep_dereplicate
   owner: iuc
   revisions:
+  - 0ae93aa4f8fe
   - 76b57044069d
   - d730086e1432
   - f54e7b3da33c

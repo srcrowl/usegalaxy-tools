@@ -31,6 +31,7 @@ tools:
   - c0b2c2e39c9c
   - c5e2e5902201
   - de6cebe3c043
+  - e075c7e866d1
   - e4691e1589d3
   - f5fdf41c08b8
   - fe74900d6dc7
@@ -40,6 +41,7 @@ tools:
   owner: iuc
   revisions:
   - 01a4ebf1f237
+  - 48e98c53e8f9
   - a27654fc4270
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -86,6 +88,7 @@ tools:
 - name: fastx_clipper
   owner: devteam
   revisions:
+  - 5bd863921cc5
   - 736b8f6ee456
   - 90858c306551
   - b8658f852bc7
@@ -148,6 +151,7 @@ tools:
   revisions:
   - 09a2199cd356
   - 115f6bb3ae79
+  - 791e195810ad
   - 822cc1e6274e
   - 8d958759cf2a
   - c885369b207b
@@ -250,6 +254,7 @@ tools:
   - 56389130cb63
   - 9115b978ce10
   - b05e39b9c170
+  - b1688ee63a38
   - f1dc2a761c30
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -288,6 +293,7 @@ tools:
   revisions:
   - 2d0d13b0b0f1
   - 33794bdb7fe0
+  - 8b70bb07960c
   - b63b2bfb3ea3
   - f0b18efb97f1
   - fe86fb89562d

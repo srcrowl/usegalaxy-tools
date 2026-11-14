@@ -208,6 +208,7 @@ tools:
   - 3e436657dcd0
   - 4dea02886337
   - 69e0806b63a4
+  - 88fecd593368
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -227,6 +228,7 @@ tools:
   - 77f67ddd89d6
   - 8dbc700cb940
   - ab55af10f1ff
+  - db7c0226ebd9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
@@ -260,6 +262,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 66617be450bd
   - 8d6686664021
@@ -308,6 +311,7 @@ tools:
   - 3c19c84fbce2
   - 98c227b9be71
   - a40dd4fd3096
+  - c8eefc6bf631
   - d9965e143053
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

@@ -131,6 +131,7 @@ tools:
   - 79b885ce78d7
   - a00cceb45700
   - a6fba3d92531
+  - d164ab7942cc
   - e403d27e8f24
   - ec9cbd6b9a49
   - eec9494fdafa
@@ -169,6 +170,7 @@ tools:
   - 95e9d34c4cad
   - 9ed6579f52f3
   - b394de3cf6e8
+  - d758d31ec054
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: metilene
@@ -221,6 +223,7 @@ tools:
   owner: iuc
   revisions:
   - 35ea4a8b1ea6
+  - 5211c9527965
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_axtchain
@@ -247,6 +250,7 @@ tools:
   revisions:
   - 2a417e645e61
   - 7b0b810b495f
+  - 888c679be537
   - fa0a3a618a57
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -255,6 +259,7 @@ tools:
   revisions:
   - 3a213e01bc7f
   - 5b65a92be96c
+  - f95788267533
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_netsyntenic
@@ -278,6 +283,7 @@ tools:
   revisions:
   - 91674d4623a8
   - 9f2d2c96a189
+  - ca3572fb1eab
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_netchainsubset

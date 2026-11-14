@@ -7,6 +7,7 @@ tools:
   owner: crs4
   revisions:
   - 111884f0d912
+  - 8096daf9ce73
   - 8a22554cdde2
   - bf68eb663bc3
   - eaee459f3d69
@@ -70,6 +71,7 @@ tools:
   - 602fb8e63aa7
   - 94170eee0ad8
   - c5a90fa4b8dd
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -142,6 +144,7 @@ tools:
   owner: iuc
   revisions:
   - 637ec5d5368c
+  - 6ecd78daae1b
   - 96e6283e4745
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -210,6 +213,7 @@ tools:
   - 099a77735731
   - 0e07bc110728
   - 4f85da43b40c
+  - 8fbb0629a99d
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
@@ -218,6 +222,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -493,6 +498,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -534,6 +540,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -541,6 +548,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - fc7334661489
   tool_panel_section_id: annotation
@@ -557,6 +565,7 @@ tools:
   revisions:
   - 507d59b036c5
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: icescreen
@@ -721,6 +730,7 @@ tools:
   owner: iuc
   revisions:
   - 4a54e4c9188b
+  - ec70edb4acd4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmsearch
