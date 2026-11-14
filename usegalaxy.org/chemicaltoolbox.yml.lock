@@ -18,6 +18,7 @@ tools:
 - name: get_pdb
   owner: bgruening
   revisions:
+  - 0a0ef624cb05
   - 538790c6c21b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -850,6 +851,7 @@ tools:
 - name: qcxms_neutral_run
   owner: recetox
   revisions:
+  - 3862d7fc6f7e
   - 475bbef634d4
   - c40784ec1fdd
   tool_panel_section_id: chemicaltoolbox

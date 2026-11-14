@@ -150,6 +150,7 @@ tools:
   owner: iuc
   revisions:
   - 037f9927c4ff
+  - 2c86bbf5db00
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
@@ -200,6 +201,7 @@ tools:
   - 85fb02c43042
   - 8cc856b935ee
   - b40b77418372
+  - d2ebe2f4ac68
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -237,6 +239,7 @@ tools:
   - 822954de3f59
   - b512435320e3
   - b8c00ce5dfa0
+  - d55d7058fb39
   - d5887ace0dd4
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -396,6 +399,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -428,6 +432,7 @@ tools:
   revisions:
   - 015283de3004
   - 24e471d13fe9
+  - 806d8eeb716b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval
@@ -440,6 +445,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly

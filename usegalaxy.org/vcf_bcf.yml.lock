@@ -65,6 +65,7 @@ tools:
 - name: vcfhethom
   owner: devteam
   revisions:
+  - 71f5bce189c5
   - 8254e0fe7358
   - b07ef36cf7e6
   tool_panel_section_id: vcf_bcf
@@ -123,6 +124,7 @@ tools:
   - 2968c6916579
   - 5e850c85ba32
   - aa8e8c96ca06
+  - f5dd85e03c55
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfbreakcreatemulti
@@ -164,6 +166,7 @@ tools:
   owner: devteam
   revisions:
   - 6ea73d6151ec
+  - 6f12c4ce6c8c
   - afc0ba768690
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -331,6 +334,7 @@ tools:
   - 7cb9d0f396c3
   - 9473302f4588
   - af163c712539
+  - b7b097acc0b1
   - b84fda8ebef0
   - b931e65638b8
   - d3286f971e89
@@ -348,6 +352,7 @@ tools:
   - 3d21f507fc5d
   - 57f36434474f
   - 63aabc920911
+  - 6de9e8a3619b
   - 9ece72700ca9
   - d7d1663559e9
   tool_panel_section_id: vcf_bcf
@@ -561,6 +566,7 @@ tools:
   - cb7928fcd126
   - dfef7a353ed0
   - e09707e8607b
+  - fe8a50b18a1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_query_list_samples
@@ -596,6 +602,7 @@ tools:
 - name: bcftools_convert_to_vcf
   owner: iuc
   revisions:
+  - 288d47b99a01
   - 2b3ce2abc747
   - 4935320a59a8
   - 55c0e906c14c

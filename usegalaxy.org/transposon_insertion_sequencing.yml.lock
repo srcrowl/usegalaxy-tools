@@ -33,6 +33,7 @@ tools:
   owner: iuc
   revisions:
   - 532a84f0de1e
+  - 6dbde7d2485e
   - 7db455b6434b
   - d6b029a6de63
   tool_panel_section_id: transposon_insertion_sequencing

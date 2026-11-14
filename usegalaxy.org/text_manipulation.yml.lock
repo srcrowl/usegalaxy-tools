@@ -122,6 +122,7 @@ tools:
   - 3bf5661c0280
   - 56a8da1f2243
   - 60ff16842fcd
+  - 6fb9abd4a64a
   - 93a3ce78ce55
   - cd36d6e45e29
   - dddadbbac949
@@ -177,6 +178,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 34d29339abab
   - 4d5aae46f850
   - 557ec8d7087d

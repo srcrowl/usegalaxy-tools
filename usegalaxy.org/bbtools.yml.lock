@@ -29,6 +29,7 @@ tools:
   - 8015d7ab8357
   - 95e9d34c4cad
   - b394de3cf6e8
+  - d758d31ec054
   tool_panel_section_id: bbtools
   tool_panel_section_label: BBTools
 - name: bbtools_bbmerge
