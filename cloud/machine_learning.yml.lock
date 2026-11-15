@@ -82,3 +82,51 @@ tools:
   - ec99e53e91d6
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
+- name: sklearn_label_encoder
+  owner: bgruening
+  revisions:
+  - d6fccdb87bf3
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: sklearn_to_categorical
+  owner: bgruening
+  revisions:
+  - 722379be2338
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: sklearn_train_test_split
+  owner: bgruening
+  revisions:
+  - e3d00d324fb7
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: keras_model_config
+  owner: bgruening
+  revisions:
+  - fb731872d453
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: keras_model_builder
+  owner: bgruening
+  revisions:
+  - ad11e219bd5a
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: keras_train_and_eval
+  owner: bgruening
+  revisions:
+  - efa16475990a
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: model_prediction
+  owner: bgruening
+  revisions:
+  - 8ef3ef591dc8
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: ml_visualization_ex
+  owner: bgruening
+  revisions:
+  - 553b147da4e9
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
