@@ -23,6 +23,7 @@ tools:
   revisions:
   - 4f9c4e6566e5
   - 60f888039fb2
+  - a2b65af988d2
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: deseq2
@@ -34,6 +35,7 @@ tools:
   - 8fe98f7094de
   - 9a882d108833
   - cd9874cb9019
+  - eaeb33f475e9
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: limma_voom
@@ -43,6 +45,7 @@ tools:
   - 119b069fc845
   - d5a940112511
   - d6f5fa4ee473
+  - df0082f25f47
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: edger
@@ -66,6 +69,7 @@ tools:
   - 61ee47027bd3
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: stringtie

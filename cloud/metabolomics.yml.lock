@@ -25,6 +25,7 @@ tools:
   owner: recetox
   revisions:
   - 1c199c3d5993
+  - d512c47f721d
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_mfassigncho
@@ -67,6 +68,7 @@ tools:
   owner: lecorguille
   revisions:
   - 9291271ec4d9
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_xcmsset
@@ -78,6 +80,7 @@ tools:
 - name: xcms_merge
   owner: lecorguille
   revisions:
+  - 8372531e6c92
   - ae28a753a6f8
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -91,6 +94,7 @@ tools:
   owner: lecorguille
   revisions:
   - 33c0ca93f3ee
+  - ba20f926a460
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: checkformat
@@ -103,12 +107,14 @@ tools:
   owner: melpetera
   revisions:
   - 2e580585782e
+  - 757b6dcfe32a
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_fillpeaks
   owner: lecorguille
   revisions:
+  - 564d6ab0cf18
   - a8d866a71ba1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -116,6 +122,7 @@ tools:
   owner: lecorguille
   revisions:
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: metams_rungc

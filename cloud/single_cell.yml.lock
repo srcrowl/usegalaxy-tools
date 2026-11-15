@@ -51,6 +51,7 @@ tools:
   revisions:
   - 13cf83ced60c
   - 55e35e9203cf
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - d0a337ddf062
@@ -64,6 +65,7 @@ tools:
   - 0cb889db0910
   - 707023fa62fe
   - 83609ef746e9
+  - 87d9511249cf
   - 8b9bf8b5157a
   - cfaf5a405371
   - e1c3c2f2a834
@@ -74,6 +76,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -95,6 +98,7 @@ tools:
   - 0bf7fddf90c7
   - 286a24ac079c
   - 33c0081e16c6
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 9301df6f892d
@@ -107,6 +111,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 27f120c69246
   - 4c9fa3c63d9e
   - a7b951572609
   - c822c5c1feef
@@ -117,6 +122,7 @@ tools:
   owner: iuc
   revisions:
   - 2c1200fba922
+  - 2ee6ff4d70fc
   - a9caad671439
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -189,6 +195,7 @@ tools:
   - 04b494623f8e
   - '528052085629'
   - b0fe3e482cb7
+  - b3aea985597c
   - c9944a2600f1
   - e4c01dcece8b
   tool_panel_section_id: single_cell
@@ -199,6 +206,7 @@ tools:
   - 71ce24befa24
   - 88c07fc4024c
   - a896b8b7d264
+  - afaa62bfdf28
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: slice_image
@@ -251,6 +259,7 @@ tools:
   owner: iuc
   revisions:
   - 46fc6751d746
+  - 7022861faab0
   - c99ba278dfa9
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
