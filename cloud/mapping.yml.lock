@@ -28,6 +28,7 @@ tools:
   revisions:
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 3fe632431b68
   - 64f11cf59c6e
   - e188dc7a68e6
@@ -57,6 +58,7 @@ tools:
   - 2055c2667eb3
   - 4014de1b6daf
   - 53255f6eecfc
+  - 6e8618432bea
   - 980d2a2e1180
   - b0f2be869d6d
   - c772497b2c32

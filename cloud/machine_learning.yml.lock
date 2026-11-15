@@ -41,6 +41,7 @@ tools:
   owner: goeckslab
   revisions:
   - 0afd970bd8ae
+  - 2c0dae52bcca
   - 4bd75b45a7a1
   - ba45bc057d70
   - bf0df21a1ea3
@@ -54,6 +55,7 @@ tools:
   revisions:
   - 1a9c42974a5a
   - 2c6624cae3c5
+  - 3aa186f76144
   - 64872c48a21f
   - 85e6f4b2ad18
   - 8729f69e9207
@@ -68,6 +70,7 @@ tools:
   owner: goeckslab
   revisions:
   - 36c5fcc49286
+  - 779d91d78ecf
   - b7ed0e483e4d
   - d13ba033cb84
   - ec4b9244f930
