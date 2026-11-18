@@ -76,3 +76,5 @@ tools:
   owner: bgruening
 - name: chopin2
   owner: iuc
+- name: sklearn_label_encoder
+  owner: bgruening
