@@ -80,6 +80,7 @@ tools:
   revisions:
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 9942ffb676fe
   - a96f3ad4e0d8
   - ab208c87d973
   - de387b2b2803
@@ -127,6 +128,7 @@ tools:
   - 5bd3f053c303
   - 5fc94b3a4704
   - 675ee1aa5952
+  - 87ab790abdf6
   - 9e58ff014088
   - a8a278849c18
   - e122f9101584
@@ -205,6 +207,7 @@ tools:
 - name: spades_metaviralspades
   owner: iuc
   revisions:
+  - 02e9389b4517
   - 2a10645aeadd
   - 328aa71f0f3c
   - 5b26685e5d3b

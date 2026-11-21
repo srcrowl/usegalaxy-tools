@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -38,6 +39,7 @@ tools:
   - 6c19daec423d
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   - fbf98f24097b
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -51,6 +53,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -62,6 +65,7 @@ tools:
   revisions:
   - 62adf13b86ea
   - 74ec758e63a4
+  - 98fd01004439
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -125,6 +129,7 @@ tools:
   - 43798b4caee0
   - 602de62d995b
   - 8b3e3657034e
+  - 8f51a7500540
   - ef2ad746b589
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -245,6 +250,7 @@ tools:
   owner: iuc
   revisions:
   - 2b80a2596064
+  - 5a69f2ff055e
   - 704c401e0afb
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -279,6 +285,7 @@ tools:
   owner: iuc
   revisions:
   - 72927fc9e9ed
+  - 99ed38e2c2e1
   - d696cf0a9622
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq

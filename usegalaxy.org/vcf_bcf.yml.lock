@@ -137,6 +137,7 @@ tools:
   revisions:
   - 9edfe5145ba8
   - aea8e90ad788
+  - e4778e5a5d43
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfannotategenotypes
@@ -561,6 +562,7 @@ tools:
   - cb7928fcd126
   - dfef7a353ed0
   - e09707e8607b
+  - fe8a50b18a1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_query_list_samples

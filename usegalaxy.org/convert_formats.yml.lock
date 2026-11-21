@@ -173,6 +173,7 @@ tools:
   revisions:
   - 356dc923f8d3
   - 3c6f9e8a4c17
+  - 549bf96a2b5b
   - 6e1aa95afa75
   - 8067dfa00ed2
   - e9bbe2f71784
@@ -316,5 +317,6 @@ tools:
   revisions:
   - 55efc5c37c16
   - d8807bae7b3f
+  - da5c7dbd14b9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
