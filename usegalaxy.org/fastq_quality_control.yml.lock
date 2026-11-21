@@ -22,6 +22,7 @@ tools:
 - name: trimmomatic
   owner: pjbriggs
   revisions:
+  - 835d5ebf270d
   - 898b67846b47
   - b9aaed85cbd1
   - d94aff5ee623
