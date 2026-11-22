@@ -13,6 +13,7 @@ tools:
 - name: hicup_hicup
   owner: bgruening
   revisions:
+  - 617966d60e1c
   - 68fb19094f84
   - 852e1fac4802
   tool_panel_section_id: epigenetics
@@ -49,6 +50,7 @@ tools:
   owner: bgruening
   revisions:
   - b4e7244246e2
+  - eb673920ee8d
   - f8cb84c49623
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
@@ -86,5 +88,11 @@ tools:
   - 8f9fe0667b89
   - 9655af207032
   - b387933e4d3d
+  tool_panel_section_id: epigenetics
+  tool_panel_section_label: Epigenetics
+- name: atacseqqc
+  owner: iuc
+  revisions:
+  - e03e488e03e0
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
