@@ -15,6 +15,7 @@ tools:
   owner: iuc
   revisions:
   - 029a793f39b6
+  - 0f42cf7485e8
   - ebe3b0f84de9
   - fb43e8887350
   tool_panel_section_id: multiple_alignments
@@ -47,6 +48,7 @@ tools:
   owner: iuc
   revisions:
   - 5c7e6ef78006
+  - 814ebb1fb04b
   - b3acbb3a6af0
   - e8fdceffea4c
   tool_panel_section_id: multiple_alignments
@@ -55,6 +57,7 @@ tools:
   owner: devteam
   revisions:
   - 5b097fde95dd
+  - baa38def0230
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mafft

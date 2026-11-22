@@ -64,6 +64,7 @@ tools:
   - 0cb889db0910
   - 707023fa62fe
   - 83609ef746e9
+  - 87d9511249cf
   - 8b9bf8b5157a
   - cfaf5a405371
   - e1c3c2f2a834
@@ -151,6 +152,7 @@ tools:
   owner: iuc
   revisions:
   - 43c146e25a43
+  - 81aacdf3a656
   - 8b917923f7d4
   - b83fbc90161e
   - c891d8b33ede
@@ -161,6 +163,7 @@ tools:
   revisions:
   - 0bff0ee0683a
   - 49776718ae90
+  - 713f9dd0f77e
   - a4b734cd253b
   - f911a64454fb
   tool_panel_section_id: single_cell
@@ -170,6 +173,7 @@ tools:
   revisions:
   - 2af7c5086a96
   - 2bfd55b87af3
+  - 51e0736263e4
   - 72979cac22b2
   - c92d0f9338c5
   tool_panel_section_id: single_cell
@@ -226,6 +230,7 @@ tools:
   revisions:
   - 652923ce664f
   - b7ea9f09c02f
+  - ede400b28a58
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_normalize
@@ -272,6 +277,7 @@ tools:
   - 5b3c1679d29b
   - 64388be6d510
   - 72a6bebab2a5
+  - 8abe1b403a5c
   - 8cb783c81905
   - 92a189c299d4
   - b409c2486353
@@ -295,6 +301,7 @@ tools:
   - 56c0d4acef02
   - 9f354c7c8c92
   - ab55fe8030b6
+  - c13b10841210
   - e639abb0de92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -308,6 +315,7 @@ tools:
   - 62acdd96d4a0
   - a8f865950ac4
   - aa0c474463c2
+  - b1fec941382b
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_remove_confounders
